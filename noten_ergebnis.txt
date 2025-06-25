@@ -1,0 +1,9 @@
+Fächer & Noten:
+Deutsch: Note = 12, Gewichtung = 2
+Mathe: Note = 15, Gewichtung = 2
+Englisch: Note = 15, Gewichtung = 2
+Physik: Note = 13, Gewichtung = 2
+Chemie: Note = 14, Gewichtung = 1
+Biologie: Note = 11, Gewichtung = 1
+
+Gewichteter Notendurchschnitt: 13.5
